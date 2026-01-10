@@ -161,13 +161,8 @@ This dataset enables both descriptive analysis and financial risk evaluation.
 - `goldman_sachs.csv`  
   Contains the raw transaction-level dataset used for financial risk analysis, including
   transaction amounts, account balances, risk scores, and time-based information.
-
-- `Goldman_Sachs_Financial_Risk_Analysis_Project.zip`  
-  Contains the complete project implementation, including:
-  - Jupyter Notebook (`.ipynb`) with full analysis
-  - Data preprocessing and exploratory analysis
-  - Visualizations and statistical analysis
-  - Insights and recommendations
+  
+- Goldman_Sachs_Financial_Risk_Analysis.ipynb file
  
 
  

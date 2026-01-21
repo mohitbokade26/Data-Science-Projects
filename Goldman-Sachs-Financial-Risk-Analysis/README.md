@@ -163,6 +163,24 @@ This dataset enables both descriptive analysis and financial risk evaluation.
   transaction amounts, account balances, risk scores, and time-based information.
   
 - Goldman_Sachs_Financial_Risk_Analysis.ipynb file
+
+- ---
+
+## 🏁 Conclusion
+
+This project demonstrates how **Python-based data analysis** can be used to assess **financial risk** by analyzing customer transaction behavior, balance trends, and account activity.
+
+By identifying **high-risk patterns, anomalies, and unstable balance behavior**, the analysis supports **proactive risk management** and enables **data-driven financial decision-making**.  
+
+---
+
+## 👤 Author
+
+**Mohit Bokade**  
+Aspiring Data Analyst | Python | Pandas | NumPy | Financial Analytics  
+
+🔗 **GitHub:** https://github.com/mohitbokade26
+
  
 
  
